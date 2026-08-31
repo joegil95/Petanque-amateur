@@ -8,3 +8,5 @@ L'interface est graphique.
 Les données sont enregistrées dans des fichiers csv compatibles avec les tableurs usuels.
 
 Voir documentation jointe au format rtf pour en savoir plus !
+
+Malgré le soin apporté au développement, cette version est encore expérimentale.
