@@ -7,6 +7,10 @@ Depuis la saisie des équipes jusqu'au classement du tournoi, en passant par les
 L'interface est graphique.
 Les données sont enregistrées dans des fichiers csv compatibles avec les tableurs usuels.
 
+Le logiciel étant développé avec Visual C++ 2015, il peut être nécessaire d'installer
+sur le PC le package Microsoft Redistributables 2015 en version 32 ou 64 bits selon la version
+de Windows utilisée. Ce package est disponible sur le net.
+
 Voir documentation jointe au format rtf pour en savoir plus !
 
 Malgré le soin apporté au développement, cette version est encore expérimentale.
