@@ -11,6 +11,6 @@ Le logiciel étant développé avec Visual C++ 2015, il peut être nécessaire d
 sur le PC le package Microsoft Redistributables 2015 en version 32 ou 64 bits selon la version
 de Windows utilisée. Ce package est disponible sur le net.
 
-Voir documentation jointe au format rtf pour en savoir plus !
+Voir documentation jointe au format pdf pour en savoir plus !
 
-Malgré le soin apporté au développement, cette version est encore expérimentale.
+Malgré le soin apporté au développement, cette version 1.0 est encore expérimentale...
