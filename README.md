@@ -1,4 +1,4 @@
-# Petanque-amateur
+
 Gestionnaire de tournois de pétanque sous Windows avec interface graphique
 
 Ce logiciel permet de gérer sur PC des tournois de pétanque en doublettes ou triplettes
@@ -14,3 +14,6 @@ de Windows utilisée. Ce package est disponible sur le net.
 Voir documentation jointe au format pdf pour en savoir plus !
 
 Malgré le soin apporté au développement, cette version 1.0 est encore expérimentale...
+
+<img width="954" height="721" alt="Capture-Petanque" src="https://github.com/user-attachments/assets/ce86fd0d-524f-4763-a38b-a7bc367efafa" />
+# Petanque-amateur
