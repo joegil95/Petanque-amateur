@@ -9,11 +9,13 @@ Les données sont enregistrées dans des fichiers csv compatibles avec les table
 
 Le logiciel étant développé avec Visual C++ 2015, il peut être nécessaire d'installer
 sur le PC le package Microsoft Redistributables 2015 en version 32 ou 64 bits selon la version
-de Windows utilisée. Ce package est disponible sur le net.
+de Windows utilisée. Ce package est disponible sur le net. A défaut copier dans le même dossier 
+que le programme les DLL situées dans le sous dossier Redist.
 
 Voir documentation jointe au format pdf pour en savoir plus !
 
-Malgré le soin apporté au développement et de nombreux essais concluants, cette version 1.0 est encore expérimentale...
+Malgré le soin apporté au développement et de nombreux essais concluants, cette version 1.0 
+est encore expérimentale...
 
 <img width="954" height="721" alt="Capture-Petanque" src="https://github.com/user-attachments/assets/ce86fd0d-524f-4763-a38b-a7bc367efafa" />
 # Petanque-amateur
